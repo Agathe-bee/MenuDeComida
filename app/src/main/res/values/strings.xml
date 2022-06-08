@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MenuDeComida</string>
+    <string name="lista_de_comidas">Lista de Comidas</string>
+    <string name="menu_de_comidas">Menu de Comidas</string>
+    <string name="huevos_rancheros">Huevos Rancheros</string>
+    <string name="barbacoa">Barbacoa</string>
+    <string name="chiles_en_nogada">Chiles en Nogada</string>
+    <string name="carne_asada">Carne Asada</string>
+    <string name="mole_con_pollo">Mole con pollo</string>
+    <string name="tampique_a">Tampiqueña</string>
+    <string name="pedir_orden">Pedir orden</string>
+    <string name="salir">Salir</string>
+    <string name="orden">Orden</string>
+    <string name="tu_pedido_es">Tu pedido es:</string>
+</resources>
